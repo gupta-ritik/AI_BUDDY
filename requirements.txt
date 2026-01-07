@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+validators
+fpdf
+python-pptx
+requests
+unstructured
+PyPDF2
+reportlab
+Pillow
